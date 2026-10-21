@@ -1,0 +1,24 @@
+[
+  {
+    "sample_id": "LY1607",
+    "source_document": {
+      "file": "LY1607.pdf",
+      "relative_path": "data/文本资料/LY1607.pdf"
+    },
+    "qa": [
+      {
+        "question": "造林作业设计规程的标准编号是什么？",
+        "answer": "LY/T1607—2024",
+        "evidence": ["LY1607.pdf:P1:L6"],
+        "evidence_detail": [
+          {
+            "file": "LY1607.pdf",
+            "page": 1,
+            "line": 6
+          }
+        ],
+        "category": 1
+      }
+    ]
+  }
+]
